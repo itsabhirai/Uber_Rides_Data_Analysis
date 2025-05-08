@@ -1,3 +1,5 @@
+![maxresdefault](https://github.com/user-attachments/assets/3edb1241-7560-405f-95b7-fae2080f9105)
+
 # Uber Rides Data Analysis using Python
 This project provides a comprehensive analysis of Uber ride data using Python. The analysis is performed in a Jupyter Notebook and covers various aspects of the dataset to extract meaningful insights, patterns, and visualizations that help understand ride behaviors, demand trends, and other key metrics.
 
